@@ -8,5 +8,6 @@ public class GitTest {
 		System.out.println("Git is cool");
         System.out.println("Git is cool2");
         System.out.println("Git is cool3");
+        System.out.println("Git is cool4")
 	}
 }
