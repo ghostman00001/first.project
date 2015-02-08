@@ -6,9 +6,7 @@ public class GitTest {
 		
 		System.out.println("Git is fun");
 		System.out.println("Git is cool");
-        System.out.println("Git is cool2");
-        System.out.println("Git is cool3");
-        System.out.println("Git is cool4");
-        System.out.println("Git is cool5");
+        
+        System.out.println("Hi Github Nice to meet you again");
 	}
 }
