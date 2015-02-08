@@ -8,5 +8,6 @@ public class GitTest {
 		System.out.println("Git is cool");
         
         System.out.println("Hi Github Nice to meet you again");
+        System.out.println("Hi 8th feb 2015")
 	}
 }
